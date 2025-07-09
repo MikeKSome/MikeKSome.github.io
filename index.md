@@ -11,3 +11,11 @@ author_profile: true
 **Jomo Kenyatta University of Agriculture and Technology (JKUAT)**  
 _Graduated: July 2025_
 
+## 📜 Certifications
+
+**Web Development Certification**  
+**Zalego Academy** — *2021*
+
+**Ethical Hacking Essentials**  
+**CyberShujaa Program** — *Awaiting Graduation*
+
