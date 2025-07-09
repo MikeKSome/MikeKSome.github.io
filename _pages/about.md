@@ -3,7 +3,7 @@ permalink: /projects/
 title: "Projects"
 ---
 
-## 🎤 Presentations
+## 🛠️ Projects
 
 ### 📝 Manchester City vs Fulham: Match Analysis
 
