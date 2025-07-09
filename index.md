@@ -7,15 +7,15 @@ author_profile: true
 ---
 ## 🎓 Education
 
-**Bachelor of Business Information Technology (BBIT)**  
-**Jomo Kenyatta University of Agriculture and Technology (JKUAT)**  
+- **Bachelor of Business Information Technology (BBIT)**  
+  **Jomo Kenyatta University of Agriculture and Technology (JKUAT)**  
 _Graduated: July 2025_
 
 ## 📜 Certifications
 
-**Web Development Certification**  
-**Zalego Academy** — *2021*
+- **Web Development Certification**  
+  **Zalego Academy** — *2021*
 
-**Ethical Hacking Essentials**  
-**CyberShujaa Program** — *Awaiting Graduation*
+- **Ethical Hacking Essentials**  
+  **CyberShujaa Program** — *Awaiting Graduation*
 
