@@ -5,5 +5,9 @@
 layout: single
 author_profile: true
 ---
+## 🎓 Education
 
+**Bachelor of Business Information Technology (BBIT)**  
+**Jomo Kenyatta University of Agriculture and Technology (JKUAT)**  
+_Graduated: July 2025_
 
