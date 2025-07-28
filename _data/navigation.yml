@@ -1,8 +1,8 @@
 main:
   - title: "Projects"
     url: /projects/
-  - title: "Presentation"
-    url: /presentation/
+  - title: "Documentation"
+    url: /documentation/
   - title: "Publications"
     url: /publications/
   - title: "About"
