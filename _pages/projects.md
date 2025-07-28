@@ -5,13 +5,21 @@ title: "Projects"
 
 ## 🛠️ Projects
 
-### 📝 Manchester City vs Fulham: Match Analysis
+Welcome to my personal projects page. Below is a collection of hands-on projects I’ve completed to build and showcase my skills in cybersecurity, system administration, and IT operations.
 
-**Type:** Football Game Analysis  
-**Focus:** Tactical breakdown, key moments, and team performance  
-**Tools Used:** Match footage, statistics, written analysis  
-**Date:** [Insert Date or Season, e.g., May 2023]
+Each project includes documentation, setup guides, and tools used.
 
-**Summary:**  
-An in-depth analysis of the Premier League match between Manchester City and Fulham. This presentation highlights tactical setups, player impact, goal sequences, and team strategies.  
-[View Full Analysis »](#) <!-- Replace with actual link if available -->
+## 🔐 Wazuh SIEM Setup & Testing
+
+A personal cybersecurity project focused on setting up a full SIEM (Security Information and Event Management) system using Wazuh. This project includes:
+
+- Deploying Wazuh on Ubuntu Server via VMware
+- Configuring agents on Windows and Kali Linux
+- Implementing File Integrity Monitoring (FIM)
+- Integrating VirusTotal for threat intelligence
+- Simulating alerts and real-time event detection
+
+🔗 [View Project Details](./wazuh.md)  
+📄 [Documentation PDFs](../docs/)
+
+---
