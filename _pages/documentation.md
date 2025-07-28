@@ -1,5 +1,5 @@
 ---
-title: "Documentation"
+title: ""
 layout: single
 permalink: /documentation/
 ---
