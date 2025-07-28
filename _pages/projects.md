@@ -20,6 +20,6 @@ A personal cybersecurity project focused on setting up a full SIEM (Security Inf
 - Simulating alerts and real-time event detection
 
 🔗 [View Project Details](/wazuh/)  
-📄 [Documentation PDFs](../docs/)
+📄 [Documentation PDFs](/assets/images/Wazuh SIEM Testing.pdf)
 
 ---
