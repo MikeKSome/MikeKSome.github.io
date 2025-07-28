@@ -19,7 +19,7 @@ A personal cybersecurity project focused on setting up a full SIEM (Security Inf
 - Integrating VirusTotal for threat intelligence
 - Simulating alerts and real-time event detection
 
-🔗 [View Project Details](./wazuh.md)  
+🔗 [View Project Details](./projects/wazuh.md)  
 📄 [Documentation PDFs](../docs/)
 
 ---
