@@ -1,6 +1,6 @@
 ---
 title: "Wazuh SIEM Setup & Testing"
-permalink: /wazuh/
+permalink: /projects/wazuh/
 layout: single
 classes: wide
 ---
