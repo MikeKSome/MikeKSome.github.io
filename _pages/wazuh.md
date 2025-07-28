@@ -1,5 +1,5 @@
 ---
-title: "Wazuh SIEM Setup & Testing"
+title: ""
 permalink: /wazuh/
 layout: single
 classes: wide
