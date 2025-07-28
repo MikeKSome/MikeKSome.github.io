@@ -70,6 +70,41 @@ To implement and evaluate a functioning SIEM using open-source tools, and docume
 
 ---
 
+---
+
+## 🚀 Potential Future Projects with Wazuh
+
+Here are some ideas for expanding this project further:
+
+- 🛡️ **CIS Benchmark Hardening**
+  - Use Wazuh’s CIS module to audit system security settings and raise the compliance score.
+  
+- 🔍 **Advanced Log Correlation**
+  - Define custom rules to detect suspicious behavior patterns (e.g., failed logins followed by privilege escalation).
+
+- 🌐 **Network Traffic Monitoring**
+  - Integrate Wazuh with Suricata or Zeek for real-time network intrusion detection.
+
+- 🗃️ **Centralized Logging for Multiple Devices**
+  - Deploy Wazuh agents across multiple VMs or devices to simulate an enterprise setup.
+
+- 🧑‍💼 **Host-Based Intrusion Detection**
+  - Focus on host-based rules and responses for detecting malware, ransomware activity, and rootkits.
+
+- 📊 **Automated Reporting**
+  - Set up scheduled report generation (e.g., daily security summaries or weekly audit reports).
+
+- 🔄 **SIEM + SOAR Integration**
+  - Explore linking Wazuh to automation tools like TheHive, Cortex, or custom scripts for response automation.
+
+- ☁️ **Cloud Monitoring**
+  - Try monitoring cloud environments (e.g., AWS or Azure) by forwarding logs into Wazuh.
+
+- ⚠️ **Attack Simulation Lab**
+  - Simulate brute force, privilege escalation, or data exfiltration attacks and observe Wazuh's detection and alerts.
+
+
+
 ## 🔗 Related Projects
 
 - [Projects Index](../)
