@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Mike Some"
-  avatar : "/assets/images/portrait.JPG"
+  avatar : "/assets/images/portrait1.JPG"
   bio    : "BBIT graduate from JKUAT interested in Cybersecurity, Technical writing and others"
   links:
     - label: "Website"
