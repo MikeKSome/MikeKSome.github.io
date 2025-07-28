@@ -107,5 +107,5 @@ Here are some ideas for expanding this project further:
 
 ## 🔗 Related Projects
 
-- [Projects Index](../)
-- [Wazuh Documentation Page](../../docs/)
+- [Projects Index](/projects/)
+- [Wazuh Documentation Page](/documentation/)
