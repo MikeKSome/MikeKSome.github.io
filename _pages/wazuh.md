@@ -22,7 +22,7 @@ To implement and evaluate a functioning SIEM using open-source tools, and docume
 - **VMware Workstation Pro**
 - **Ubuntu Server 22.04**
 - **Wazuh SIEM** (Manager + Dashboard)
-- **Windows 10 Agent**
+- **Windows 11 Agent**
 - **Kali Linux Agent**
 
 ---
