@@ -4,7 +4,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: single
 author_profile: true
-title: "Exploring Cybersecurity: My Journey & Projects"
+title: ""Mike Some | Cybersecurity Portfolio""
 ---
 ## 🎓 Education
 
