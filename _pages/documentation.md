@@ -18,4 +18,4 @@ Covers installation and configuration of a Wazuh server on Ubuntu Server.
 
 **2. Wazuh Testing & Evaluation**  
 Details testing methods including file tampering, VirusTotal integration, and service monitoring.  
-📄 [Download PDF](../assets/images/Wazuh SIEM Testing.pdf)
+📄 [Download PDF](/docs/wazuh-test.pdf)
