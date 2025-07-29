@@ -54,11 +54,6 @@ To implement and evaluate a functioning SIEM using open-source tools, and docume
 
 ---
 
-## 📸 Screenshots
-
-> *(Add screenshots if available using `![desc](path)`)*  
-> You can store them in `/assets/images/` or `/assets/projects/wazuh/`
-
 ---
 
 ## 🧠 What I Learned
